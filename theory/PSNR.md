@@ -5,3 +5,4 @@ Peak signal-to-noise ratio -  метод оценки сходства межд�
 $$
 \large{\mathrm{PSNR} = 10\log_{10}({\mathrm{MAX_I} \over \mathrm{MSE(x, y)}})}
 $$
+___
